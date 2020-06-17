@@ -37,9 +37,9 @@ This project is created with the use of following Tools.
 
 
 ## Tests 
-- Search for restaurants in an area
-	Given I want food in "AR51 1AA"
-	When I search for restaurants
+- Search for restaurants in an area,
+	Given I want food in "AR51 1AA",
+	When I search for restaurants,
 	Then I should see some restaurants in "AR51 1AA"
 
 
