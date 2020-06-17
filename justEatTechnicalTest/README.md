@@ -29,20 +29,26 @@ This project is created with the use of following Tools.
 - Paste this path of 'chromedriver.exe' in 'StepDefination.java' in stepDefinations folder of the downloaded project
 
 
-## Feature
+## Feature(s)
 - Use the application 'https://www.just-eat.co.uk/' 
 	to find restaurants, 
 	So that I can order food as a hungry customer, 
 	I want to be able to find restaurants in my area
 
 
-## Tests 
+## Test(s)
 - Search for restaurants in an area,
 	Given I want food in "AR51 1AA",
 	When I search for restaurants,
 	Then I should see some restaurants in "AR51 1AA"
 
 
+## Run the Test(s)
+- Open Command Prompt
+- Navigate to the downloaded project directory
+- Run the project from command prompt using 'mvn clean, compile, install'
+	
+	
 ## Support
 Reach out to me at one of the following places!
 
